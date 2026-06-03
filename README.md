@@ -1,4 +1,4 @@
-# GAN-PU Peptide Classification
+# Pep-PU_GAN
 
 A Positive-Unlabeled learning pipeline for peptide classification using graph neural networks, adversarial latent-space training, self-training, and a proxy negative benchmark.
 
